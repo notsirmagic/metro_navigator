@@ -1,15 +1,15 @@
 # metro_navigator
 Este es un programa de línea de comandos (CLI) en Python diseñado para calcular la ruta más corta y el costo de un viaje entre dos estaciones del Metro de Caracas, teniendo en cuenta las posibles transferencias entre líneas.
 
-## Descripción
+## 📝 Descripción
 
 El programa permite al usuario ingresar dos estaciones del metro (origen y destino) y calcular la ruta más corta, ya sea directa o con transferencia entre ellas. También calcula el costo total del viaje basándose en el número de estaciones recorridas y un costo adicional en caso de que sea necesario hacer una transferencia entre líneas.
 
-## Requisitos
+### Requisitos
 
 - Python 3.x
 
-## Instalación
+## ⚙️ Instalación
 
 1. Clona el repositorio en tu máquina local:
    ```bash
@@ -18,7 +18,7 @@ El programa permite al usuario ingresar dos estaciones del metro (origen y desti
    ```bash
    cd metro_navigator
 
-## Uso
+### Uso
 
 El programa se ejecuta desde la línea de comandos con dos argumentos: la estación de origen y la estación de destino. Por ejemplo:
    ```bash
@@ -26,7 +26,7 @@ python metro.py 'Propatria' 'Chacao'
 ```
 
 
-## Ejemplo de salida
+### Ejemplo de salida
 
 Si las estaciones de origen y destino están en la misma línea:
    ```bash
@@ -91,6 +91,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, puedes hace
 - Crea una nueva rama para tu contribución.
 - Realiza los cambios y crea un pull request.
 
-## ❤️
+## ¡Muestra tu apoyo! ❤️
 
 Si te gusto el proyecto, puedes mostrar tu apoyo con una ⭐️
