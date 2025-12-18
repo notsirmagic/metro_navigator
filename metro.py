@@ -1,6 +1,6 @@
 # CLI Tool para calcular la ruta mas corta y costo entre estaciones del Metro de Caracas
 # By: notsirmagic
-# GitHub: https://github.com/notsirmagic
+# GitHub: https://github.com/notsirmagic/metro_navigator
 
 import sys
 
